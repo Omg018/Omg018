@@ -2,9 +2,7 @@
 I’m **Om Gharate**
 
 <p align="center">
-  <a >
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=25&pause=1000&color=786CF7&center=true&random=true&width=500&lines=AI%2FML+Engineer;Tech+Enthusiast;Data+Analyst;Full+Stack+Developer" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Bungee+Spice&size=25&pause=1000&color=00F0FF&width=300&lines=AI%2FML+Engineer;Tech+Enthusiastic;Data+Analyst;Full+Stack+Developer%22%20alt=%22Typing%20SVG" /></a>
 </p>
 
 ---
