@@ -1,23 +1,30 @@
+👋  Hey there! 
+I’m **Om Gharate**
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a >
     <img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=25&pause=1000&color=786CF7&center=true&random=true&width=500&lines=AI%2FML+Engineer;Tech+Enthusiast;Data+Analyst;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 ---
+<br>
 
 ### 🚀 About Me
 
-Hey there! 👋  
-I’m **Om Gharate** — a passionate and curious mind diving deep into the world of **AI/ML**, **Full Stack Development**, and **Data Science**. I'm always exploring cutting-edge technologies and turning ideas into impact.
+- **🎯 Currently Learning**: Machine Learning Algorithms & Next.js
+  
+- **🤖 Tech Interests**: AI/ML, Web3, Deep Learning, Full Stack Projects  
+- **👨‍💻 Academic Background**: Final-year AI/ML student with a strong foundation in Computer Engineering  
+- **🧠 Passion**: I love building intelligent systems that solve real-world problems  
+- **📊 Data-Driven Mindset**: Interested in making data-driven decisions and creating insightful visualizations  
+- **🔁 Philosophy**: Believer in lifelong learning, the power of consistency, and leveling up 1% every day
 
-
-
-- 🎯 **Currently Learning**: Machine Learning Algorithms & Next.js  
-- 🤖 **Tech Interests**: AI/ML, Web3, Deep Learning, Full Stack Projects  
-- 📫 **Let’s Connect**: [LinkedIn](https://www.linkedin.com/in/om-gharate/)
+<br>
 
 ---
+
+<br>
 
 ### 🛠️ Skills & Tools
 
@@ -39,24 +46,28 @@ I’m **Om Gharate** — a passionate and curious mind diving deep into the worl
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+<br>
+
 ---
+
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src="https://streak-stats.demolab.com?user=Omg018&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Mon%2CTue%2CWed" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
+
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/om-gharate/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/BecoderWithMe"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="mailto:gharateom18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center" >
+  <a target="_blank" href="https://www.linkedin.com/in/om-gharate/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="https://x.com/BecoderWithMe"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a target="_blank" href="mailto:gharateom18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
