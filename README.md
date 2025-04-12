@@ -1,3 +1,5 @@
+https://readme-typing-svg.herokuapp.com/demo/?font=Bungee+Spice&size=25&color=786CF7&center=true&random=true&width=438&lines=AI%2FML+Engineer;Tech+Enthusiastic;Data+Analyst;Full+Stack+Developer
+
 - 👋 Hi, I’m Om Gharate
 - 👀 I’m interested in AI/Ml Full Stack Development
 - 🌱 I’m currently learning Machine Learning Algorithms , Next.js. 
